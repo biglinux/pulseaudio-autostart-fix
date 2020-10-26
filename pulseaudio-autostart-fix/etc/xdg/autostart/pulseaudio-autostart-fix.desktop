@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=pulseaudio-autostart-fix
+StartupNotify=false
+Exec=systemctl --user restart pulseaudio.socket

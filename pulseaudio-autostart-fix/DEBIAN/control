@@ -1,0 +1,11 @@
+Package: pulseaudio-autostart-fix
+Version: 1.0.0-1big1
+Depends:
+Architecture: all
+Maintainer: Bruno Goncalves <www.biglinux.com.br>
+Section: admin
+Priority: optional
+Installed-Size:12
+Description: Reload socket to correct detection of devices
+
+
